@@ -38,7 +38,7 @@ ITEM CHOOSING:
 - Else
 {
 	- Do not do anything.
-}
+}.
 
 
 
